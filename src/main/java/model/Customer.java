@@ -9,6 +9,7 @@ public class Customer {
 	     private String email;
 	     private String gender;
 	     private String address;
+             private String mob;
 		
 	    public Customer(String firstname, String lastname, String mobile, String email, String gender, String address) {
 			//super();
