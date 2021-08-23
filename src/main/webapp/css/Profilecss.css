@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+
+
+.userprofile{
+	box-shadow: 0px 0px 50px 10px violet;
+	padding: 5%;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	border-radius: 0.5rem;
+	background: #fff;
+	background-image: linear-gradient(to bottom right, white ,#a4ff40);
+}
+
+
+.profile2{
+	
+	   text-align:left;
+	   margin-left:30px;
+}
+
+
+.logo1{
+	
+	width:130px;
+	
+	
+	
+}
+
+
+
+.updateP
+{
+	margin-left:350px;
+	font-weight:bold;
+	font-size:16px;
+	font-family:sans-serif;
+	color:white;
+	background-color:#003399;
+	border:1px solid black;	
+	
+	
+}
+
+.updateP:hover
+{
+	background-color:#006400;
+}

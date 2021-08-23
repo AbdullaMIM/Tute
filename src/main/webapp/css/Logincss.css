@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+
+
+
+.bcWork
+{
+    width:45%;
+	margin-top:20px;
+	margin-bottom:35px;
+	margin-left:300px;
+	padding:25px;
+	background-color:lightGrey;
+	font-size:16px;
+	font-weight:bold;
+}
+
+
+.font
+{
+	color:#333;
+}
+
+#bttn1
+{
+	font-weight:bold;
+	font-size:16px;
+	font-family:sans-serif;
+	color:white;
+	background-color:orange;
+}
+
+#bttn1:hover
+{
+	background-color:#006400;
+}
+
+
+#linkPwd
+{
+	text-decoration:none;
+	color:black;
+	font-family:sans-serif;
+	font-weight:bold;
+	font-size:14px;
+}
+
+#linkPwd:hover
+{
+	background-color:#19A9AF;
+}

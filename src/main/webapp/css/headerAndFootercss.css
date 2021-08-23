@@ -1,0 +1,148 @@
+@charset "ISO-8859-1";
+
+
+
+.buttonup {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+  float:right;
+  margin-right:20px
+  
+}
+ .buttonup:hover{
+ 	background-color:red;
+ }
+ 
+
+.search{
+   float:right;
+   margin-right:80px;
+   border:2px solid black;
+
+}
+.upbtn{
+ float :right;
+ padding:2px 8px;
+ background-color:black;
+ color:white;
+ margin-right:10px;
+ border-radius: 50%;
+ border-color:red
+ 
+
+}
+
+.upbtn:hover{
+ background-color:red;
+
+}
+
+.uplink{
+
+float:right;
+text-decoration:none;
+color:red;
+margin-right:20px;
+
+
+}
+
+.behind{
+
+background-color:#F0FFFF;
+
+}        
+
+
+
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 26px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: red;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+
+.bottomButton{ 
+  background-color: darkgreen;
+  color:white;
+  padding:35px 50px;
+  border-radius:12px;
+ 
+  
+}
+
+.bottomButton:hover:not(.active){
+	background-color: red;
+	 -ms-transform: rotate(20deg); /* IE 9 */
+ 	 transform: rotate(20deg); /* Standard syntax */
+}
+
+
+.tablePosition{
+	padding:0px 400px;
+	margin:0px;
+	
+}
+
+.form{
+	background-color: grey;
+	padding:10px;
+	margin:10px;
+	color:white;
+	
+	} 
+
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: white;
+}
+
+
+.upfooter{
+	background-color:lightblue;
+    padding:5px;
+    margin:5px;
+    
+}
+
+
+
+
